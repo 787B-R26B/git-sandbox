@@ -1,15 +1,3 @@
 # Sandbox
-
-add kurosandesuga,nanika
-
-aaa
-
-test by KD
-
-hogehoge
-
-momomo
-
-tetete
-
-aiueo
+## what is this?
+this file is my sandbox .
